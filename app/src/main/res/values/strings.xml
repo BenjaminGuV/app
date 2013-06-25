@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Cotizador Express</string>
+    <string name="lbCiudad">Ciudad de Renta</string>
+    <string name="lbPickUp">Lugar de Renta</string>
+    <string name="lbPickUpFecha">Fecha de Renta</string>
+    <string name="lbPickUpHora">Hora de Renta</string>
+    <string name="lbDropOff">Lugar de Devolución</string>
+    <string name="lbDropOffFecha">Fecha de devolución</string>
+    <string name="lbDropOffHora">Hora de devolución</string>
+    <string name="btEnviar">Cotizar</string>
+
+
+    <string-array name="lista_ciudad">
+        <item>Acapulco</item>
+        <item>Aguascaliente</item>
+        <item>Boca de Rio</item>
+        <item>Cancun</item>
+        <item>Mexico DF</item>
+        <item>Queretaro</item>
+        <item>Zacatecas</item>
+    </string-array>
+
+</resources>

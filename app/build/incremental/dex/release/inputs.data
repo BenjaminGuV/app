@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372035704000 452 36da670370264c2883581c7542795aab967da037 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$dimen.class
+1372035651000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/benjamin/AndroidStudioProjects/appProject/app/libs/android-support-v4.jar
+1372035704000 811 dfcbaa1d088523cf8d2d2f18b11ec87096b6c899 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/MainActivity.class
+1372035704000 331 e9a0a7073d904c67c6a20676a4d7aad3396eea54 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$attr.class
+1372035704000 379 728de6a1320573b3606a9e3833be4dec2d757a54 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$menu.class
+1372035704000 394 9f93286c8ff8bd124e6b1e0599833bd427f71a3d /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$layout.class
+1372035704000 463 2851b5f5f63f43c30e4ebbb42afcab556ce6f1a4 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$string.class
+1372035704000 647 d07bbf60e1cacbe9a850b018813241e32e67f77c /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R.class
+1372035704000 384 0943b07ef1f736690c8234012cce494f676f8b4a /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$id.class
+1372035704000 339 5d65ec8abf26f96b318eb0aff1a4766a91ab71e3 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/BuildConfig.class
+1372035704000 422 b71137c8a9d560ce15621c2c4b7e26a8ec1389b1 /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$style.class
+1372035704000 398 5b96ffb1b9be106e35a84b8390f48ca5e6baabec /Users/benjamin/AndroidStudioProjects/appProject/app/build/classes/release/com/example/app/R$drawable.class
