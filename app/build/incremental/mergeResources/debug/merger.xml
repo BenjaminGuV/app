@@ -50,11 +50,17 @@
                 </string>
                 <string name="lbDropOffFecha" >Fecha de devolución
                 </string>
-                <string name="lbPickUpHora" >Hora de Renta
-                </string>
+
+                <string-array name="slc_pick_up_ac" >
+                    <item>
+Aeropueto
+                    </item>
+                    <item>
+Ciudad
+                    </item>
+                </string-array>
+
                 <string name="lbCiudad" >Ciudad de Renta
-                </string>
-                <string name="app_name" >app
                 </string>
 
                 <string-array name="lista_ciudad" >
@@ -83,13 +89,27 @@ Zacatecas
 
                 <string name="btEnviar" >Cotizar
                 </string>
+                <string name="lbDropOff" >Lugar de Devolución
+                </string>
+                <string name="lbPickUpHora" >Hora de Renta
+                </string>
+                <string name="app_name" >app
+                </string>
                 <string name="hello_world" >Cotizador Express
                 </string>
                 <string name="lbPickUpFecha" >Fecha de Renta
                 </string>
+
+                <string-array name="slc_drop_off_ac" >
+                    <item>
+Aeropueto
+                    </item>
+                    <item>
+Ciudad
+                    </item>
+                </string-array>
+
                 <string name="lbDropOffHora" >Hora de devolución
-                </string>
-                <string name="lbDropOff" >Lugar de Devolución
                 </string>
             </file>
             <file

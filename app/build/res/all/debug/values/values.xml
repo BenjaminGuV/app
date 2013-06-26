@@ -10,6 +10,14 @@
         <item>Queretaro</item>
         <item>Zacatecas</item>
     </string-array>
+    <string-array name="slc_drop_off_ac">
+        <item>Aeropueto</item>
+        <item>Ciudad</item>
+    </string-array>
+    <string-array name="slc_pick_up_ac">
+        <item>Aeropueto</item>
+        <item>Ciudad</item>
+    </string-array>
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>

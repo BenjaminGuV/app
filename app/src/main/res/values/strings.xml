@@ -24,4 +24,14 @@
         <item>Zacatecas</item>
     </string-array>
 
+    <string-array name="slc_pick_up_ac">
+        <item>Aeropueto</item>
+        <item>Ciudad</item>
+    </string-array>
+
+    <string-array name="slc_drop_off_ac">
+        <item>Aeropueto</item>
+        <item>Ciudad</item>
+    </string-array>
+
 </resources>

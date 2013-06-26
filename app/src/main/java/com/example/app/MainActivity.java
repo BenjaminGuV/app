@@ -17,8 +17,16 @@ public class MainActivity extends Activity {
         Spinner slc_pick_up = (Spinner) findViewById( R.id.slcPickUp );
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource( this,
                 R.array.lista_ciudad, android.R.layout.simple_spinner_item );
-        //slc_pick_up.setDropDownHorizontalOffset(  );
-        slc_pick_up.setAdapter(s slc_pick_up);
+        adapter.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
+        slc_pick_up.setAdapter( adapter );
+
+
+        Spinner slc_pick_up_ac = (Spinner) findViewById( R.id.slc_pick_up );
+        ArrayAdapter<CharSequence> adapter_dos = ArrayAdapter.createFromResource( this,
+                R.array.slc_pick_up_ac, android.R.layout.simple_spinner_item );
+        adapter_dos.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
+        slc_pick_up_ac.setAdapter( adapter_dos );
+
     }
 
 
